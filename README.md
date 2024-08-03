@@ -12,3 +12,6 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 - Instruction used from DDL category: create database, create table, alter table.
 - Instruction used from DML category: insert, update.
 - Instruction used from DQL select (from, on, where, between, in).
+
+
+![table connection](https://github.com/user-attachments/assets/cec289f6-0c06-443d-b935-8c4e2440643f)
