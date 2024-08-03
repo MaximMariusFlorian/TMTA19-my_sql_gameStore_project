@@ -8,7 +8,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 - In this project i created a database named Game_Stores which inclused several countries, people, sales and games.
 - The database has 5 tables with the following names: stores, games, sales, order_status and refund_request.
-- The type of data most used were mostly, auto_increment, not_null, varchar.
+- The type of data most used were mostly, auto_increment, not_null, varchar, int, real, date
 - Instruction used from DDL category: create database, create table, alter table.
 - Instruction used from DML category: insert, update.
 - Instruction used from DQL select (from, on, where, between, in).
