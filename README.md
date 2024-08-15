@@ -1,4 +1,5 @@
-# TMTA19-SQL-FinalProject
+# my_sql_gameStore_project
+
 
 
 ## Introduction
