@@ -36,7 +36,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 2. ### DML (Data Manipulation Language)
   In order to be able to use the database, i've populated it with multiple tables that had various data necessary for performing queries and manipulate data.
 
- ### Below you can find all the inster instructions that were created in the scope of this project
+ #### Below you can find all the inster instructions that were created in the scope of this project
 ```
 insert into games (store_id, Name, Genre, rating, price, physical_copy) value
 ```
@@ -58,7 +58,7 @@ insert into refund_request (saleID, previousorderID, refund_result) values
 - update sales set order_date = '2024-04-20' where id = 2;
 - update sales set order_date = '2024-04-25' where id = 3;
 
- 3. DQL (Data Queri Language)
+ 3. ### DQL (Data Queri Language)
     The DQL commands that were used for this project where the following:
 - Where
 - IN
