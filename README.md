@@ -6,7 +6,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, by creating a database and using multiple instructions.The database in scope was created by myself and tries to replicate multiple game stores and their sales
 
-### Database description:** The database contains 5 tables that are connected with the following themes: stores, games, sales, order_status, refund_requests**
+** Database description**: The database contains 5 tables that are connected with the following themes: stores, games, sales, order_status, refund_requests
 
 1. ### Database schema
 
