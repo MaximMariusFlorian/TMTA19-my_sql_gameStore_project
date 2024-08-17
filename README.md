@@ -8,6 +8,12 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 **Database description** : The database contains 5 tables that are connected with the following themes: stores, games, sales, order_status, refund_requests
 
+## How to run
+1. Download the file
+2. In the SQL workbench select the File button
+3. Select Run SQL Script
+4. Select and open the downloaded file
+
 1. ### Database schema
 
    The database tables are connected in the following way:
