@@ -37,21 +37,21 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
   In order to be able to use the database, i've populated it with multiple tables that had various data necessary for performing queries and manipulate data.
 
  ### Below you can find all the inster instructions that were created in the scope of this project
-'''
+```
 insert into games (store_id, Name, Genre, rating, price, physical_copy) value
-'''
-'''
+```
+```
 'insert into sales (Client_Name, physical_copy_order, id_store, id_game, adress, country, email) values
-'''
-'''
+```
+```
 insert into sales (Client_Name, physical_copy_order, id_store, id_game, adress, country, email, order_date) values
-'''
-'''
+```
+```
 insert into order_status (id_sale, id_store, id_game, status_order) values
-'''
-'''
+```
+```
 insert into refund_request (saleID, previousorderID, refund_result) values
-'''
+```
 
 ###   After the insert, there were also some updates in the following way:
 - update sales set order_date = '2024-04-20' where id = 1;
