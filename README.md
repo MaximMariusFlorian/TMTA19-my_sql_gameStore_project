@@ -14,6 +14,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 - Select Run SQL Script
 - Select and open the downloaded file
 
+
 1. ### Database schema
 
    The database tables are connected in the following way:
@@ -33,10 +34,15 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
      The following instructions were writen in the scope of creating the structure of the database:
    - create database 
    - create table
+  
+     **The first command to run in order to obtain a database**
      
  ```
 create database Game_Stores
 ```
+
+**We start to populate the database with the following tables in this order**
+
 ```
 create table stores(
 Store_ID int primary key auto_increment,
